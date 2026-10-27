@@ -1,10 +1,16 @@
-# Kern-Protokoll
+# Grenzstein-Protokoll (Kern-Protokoll)
 
-Ein leichtgewichtiger und robuster Protokollierungs- und Datenstrukturierungs-Helfer für saubere digitale Arbeitsabläufe und automatisierte Systemaufzeichnungen.
+Ein leichtgewichtiger, robuster Protokollierungs- und Datenstrukturierungs-Helfer für saubere digitale Arbeitsabläufe und automatisierte Systemaufzeichnungen.
 
 ## Über das Projekt
-Das Kern-Protokoll wurde entwickelt, um strukturierte Datenströme präzise zu erfassen, zu formatieren und im Hintergrund zu verwalten. Der Fokus liegt auf kompromissloser Zuverlässigkeit, minimalem Overhead und einer klaren, wartungsarmen Architektur.
+Das **Grenzstein-Protokoll** wurde entwickelt, um Systemprozesse und Initialisierungen strukturiert, transparent und fehlerfrei zu protokollieren. Der Fokus liegt dabei auf handwerklicher Präzision, minimalem Overhead und maximaler Zuverlässigkeit im täglichen Einsatz.
+
+## Struktur
+* `willkommen.py` – Das initiale Begrüßungs- und Startskript zur Systemvalidierung.
 
 ## Verwendung
-Das System ist modular aufgebaut und dient als automatisierter Baustein für saubere Dokumentationsprozesse.
+Das Repository dient als stabiler Kern für modulare Systemerweiterungen. 
 
+1. Repository klonen:
+   ```bash
+   git clone [https://github.com/Grenzstein-Protokoll/Kern-Protokoll.git](https://github.com/Grenzstein-Protokoll/Kern-Protokoll.git)
