@@ -12,5 +12,10 @@ Das **Grenzstein-Protokoll** wurde entwickelt, um Systemprozesse und Initialisie
 Das Repository dient als stabiler Kern für modulare Systemerweiterungen. 
 
 1. Repository klonen:
-   ```bash
-   git clone [https://github.com/Grenzstein-Protokoll/Kern-Protokoll.git](https://github.com/Grenzstein-Protokoll/Kern-Protokoll.git)
+   git clone https://github.com/Grenzstein-Protokoll/Kern-Protokoll.git
+
+2. Skript ausführen:
+   python willkommen.py
+
+## Lizenz
+Veröffentlicht unter den Richtlinien des Projekts.
