@@ -1,0 +1,18 @@
+name: Grenzstein-Testsuite
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Python einrichten
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Tests ausführen
+        run: |
+          python -m unittest discover -s tests
