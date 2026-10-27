@@ -1,0 +1,2 @@
+# Grenzstein-Protokoll Dependencies
+# Der Kern läuft rein mit Python-Standardbibliotheken (Zero Overhead).
