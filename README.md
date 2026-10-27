@@ -1,21 +1,15 @@
 # Grenzstein-Protokoll (Kern-Protokoll)
 
-Ein leichtgewichtiger, robuster Protokollierungs- und Datenstrukturierungs-Helfer für saubere digitale Arbeitsabläufe und automatisierte Systemaufzeichnungen.
+![Grenzstein-Testsuite](https://github.com/Grenzstein-Protokoll/Kern-Protokoll/actions/workflows/test.yml/badge.svg)
 
-## Über das Projekt
-Das **Grenzstein-Protokoll** wurde entwickelt, um Systemprozesse und Initialisierungen strukturiert, transparent und fehlerfrei zu protokollieren. Der Fokus liegt dabei auf handwerklicher Präzision, minimalem Overhead und maximaler Zuverlässigkeit im täglichen Einsatz.
+Ein minimalistischer und robuster Systemkern für saubere digitale Arbeitsabläufe, automatisierte Systemvalidierungen und Protokollierungen mit absolutem Fokus auf handwerkliche Präzision.
 
-## Struktur
-* `willkommen.py` – Das initiale Begrüßungs- und Startskript zur Systemvalidierung.
+## 📂 Projektstruktur
 
-## Verwendung
-Das Repository dient als stabiler Kern für modulare Systemerweiterungen. 
+* **`willkommen.py`**: Initiales Startskript zur Systemvalidierung und Begrüßung.
+* **`system_status.py`**: Ermittelt die Laufzeitumgebung (Python, OS) und unterstützt optionale Log-Ausgaben.
+* **`tests/`**: Automatisierte Testroutinen zur Sicherstellung der Code-Integrität.
+* **`.github/workflows/test.yml`**: CI/CD-Pipeline zur vollautomatischen Testausführung.
 
-1. Repository klonen:
-   git clone https://github.com/Grenzstein-Protokoll/Kern-Protokoll.git
-
-2. Skript ausführen:
-   python willkommen.py
-
-## Lizenz
-Veröffentlicht unter den Richtlinien des Projekts.
+## 🛠️ Qualitätsstandards & Architektur
+Das Projekt folgt strikten Prinzipien von Modularität, Zero Overhead (Verwendung reiner Python-Standardbibliotheken) und vollständiger Testabdeckung.
