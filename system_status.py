@@ -9,4 +9,3 @@ def check_system():
 
 if __name__ == "__main__":
     check_system()
-  
