@@ -16,7 +16,7 @@ def check_system(log_to_file=False):
     
     if log_to_file:
         with open("system.log", "a", encoding="utf-8") as f:
-            f.write(status_info)
+            f.write(status_information)
         print("Status erfolgreich in 'system.log' geschrieben.")
 
 if __name__ == "__main__":
