@@ -8,7 +8,7 @@ Ein minimalistischer und robuster Systemkern für saubere digitale Arbeitsabläu
 
 * **`willkommen.py`**: Initiales Startskript zur Systemvalidierung und Begrüßung.
 * **`system_status.py`**: Ermittelt die Laufzeitumgebung (Python, OS) und unterstützt optionale Log-Ausgaben.
-* **`tests/`**: Automatisierte Testroutinen zur Sicherstellung der Code-Integrität.
+* **`tests/`**: Automatisierte Testroutine/n zur Sicherstellung der Code-Integrität.
 * **`.github/workflows/test.yml`**: CI/CD-Pipeline zur vollautomatischen Testausführung.
 
 ## 🛠️ Qualitätsstandards & Architektur
