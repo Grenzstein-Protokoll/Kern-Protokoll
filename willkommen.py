@@ -1,5 +1,5 @@
 # Grenzstein-Protokoll: Kern-Initialisierung
-# Mit vollem Einsatz und handwerklicher Präzision gebaut!
+# Mit komplettem Einsatz und handwerklicher Präzision gebaut!
 
 def begruessung():
     print("--------------------------------------------------")
