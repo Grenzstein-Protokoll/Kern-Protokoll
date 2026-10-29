@@ -1,7 +1,7 @@
 import sys
 import os
 
-# Damit Python das Hauptverzeichnis findet
+# Damit Python  das Hauptverzeichnis findet
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from system_status import check_system
