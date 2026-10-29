@@ -1,7 +1,7 @@
 # Dokumentation: Grenzstein-Protokoll (Kern-Protokoll)
 
 ## 1. Architektur und Zielsetzung
-Das Grenzstein-Protokoll ist als minimalistischer und robuster Systemkern konzipiert. Es bildet die Basis für automatisierte Protokollierungen und Systemvalidierungen mit minimalem Overhead.
+Das Grenzstein-Protokoll ist als minimalistischer und zugleich robuster Systemkern konzipiert. Es bildet die Basis für automatisierte Protokollierungen und Systemvalidierungen mit minimalem Overhead.
 
 ## 2. Modulübersicht
 * **willkommen.py**: Initiales Startskript zur Systemvalidierung und Begrüßung.
